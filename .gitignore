@@ -156,3 +156,13 @@ tests/**/*.yaml
 *.tfevents.*
 *.pt
 user_gui_presets.json
+.DS_Store
+src/.DS_Store
+tests/.DS_Store
+tests/configs/.DS_Store
+tests/configs/44k/.DS_Store
+tests/dataset/.DS_Store
+tests/dataset_raw/.DS_Store
+tests/dataset_raw/Joey/.DS_Store
+tests/dataset_raw/test/.DS_Store
+tests/filelists/.DS_Store
